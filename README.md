@@ -7,7 +7,7 @@ prometheus_http implements simple middleware for HTTP queries, which collects fo
 
 # Installation
 ```
-go get github.com/emeno89/prometheus_http/middleware
+go get github.com/emeno89/prometheus_http
 ```
 
 # Metrics
